@@ -1,4 +1,5 @@
 # BlendMimic3D: A Synthetic Dataset for Human Pose Estimation
+![Blendmimic3DOccl2](https://github.com/FilipaLino/BlendMimic3D/assets/102179022/f8c2147b-aadd-4a54-9500-09940f156373)
 
 ## Overview
 BlendMimic3D is a synthetic dataset designed for Human Pose Estimation (HPE) research, particularly tailored to address challenges in smart retail environments. Developed using Blender, this dataset bridges the gap in existing HPE datasets by incorporating a diverse range of scenarios, including self-occlusions, object-based occlusions, and out-of-frame occlusions.
