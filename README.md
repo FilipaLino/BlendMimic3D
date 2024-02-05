@@ -20,7 +20,7 @@ The creation of BlendMimic3D is driven by the need for more comprehensive and ve
 - **3D and 2D Keypoint Positions:** Provides both 3D and 2D positions of keypoints for comprehensive pose estimation.
 - **Occlusion Data:** Contains information on occluded keypoints for each frame.
 
-![Dataset-Data (1)](https://github.com/FilipaLino/BlendMimic3D/assets/102179022/4fc14114-6cda-42a1-8b73-eda562e7cf46)
+![Dataset-Data (1)](https://github.com/FilipaLino/BlendMimic3D/assets/102179022/4fc14114-6cda-42a1-8b73-eda562e7cf46 | width=250)
 
 ## Methodology
 We employed a structured approach for dataset creation, including 3D model setup, environment creation, camera configuration, character animation, rendering, keypoint extraction, occlusion detection, and data saving. Our focus was on ensuring that the synthetic scenarios closely mirror real-world complexities.
