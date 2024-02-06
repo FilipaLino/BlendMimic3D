@@ -13,7 +13,7 @@ Existing HPE datasets have significantly contributed to the advancement of pose 
 - **Diverse Occlusion Scenarios:** Specifically addresses self-occlusions, object-based occlusions, and out-of-frame occlusions.
 - **Multi-Perspective Capture:** Utilizes four cameras to capture diverse human movements and interactions from multiple angles.
 - **Pixel-Perfect Annotations:** Offers detailed annotations for 2D keypoints, 3D keypoints, and occlusion data.
-![BlenderKpts](https://github.com/FilipaLino/BlendMimic3D/assets/102179022/8abafb5d-85db-4cf6-8658-8d2afa5f1e91) | ![rule1](https://github.com/FilipaLino/BlendMimic3D/assets/102179022/fd13a908-15ca-44f3-b234-984ee5c9bde5)
+![Blenderspecs2](https://github.com/FilipaLino/BlendMimic3D/assets/102179022/41064897-98a3-40a5-8642-71fbc1f03dd0)
 
 ## Dataset Components
 - **Videos:** A collection of videos capturing a range of actions from four different camera perspectives.
