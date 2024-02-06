@@ -20,8 +20,7 @@ Existing HPE datasets have significantly contributed to the advancement of pose 
 - **Camera Parameters:** Includes intrinsic and extrinsic parameters for camera calibration.
 - **3D and 2D Keypoint Positions:** Provides both 3D and 2D positions of keypoints for comprehensive pose estimation.
 - **Occlusion Data:** Contains a binary array depicting which keypoints are occluded in each frame.
-![Dataset-Data (1)](https://github.com/FilipaLino/BlendMimic3D/assets/102179022/4fc14114-6cda-42a1-8b73-eda562e7cf46)
-<img src="https://github.com/FilipaLino/BlendMimic3D/assets/102179022/4fc14114-6cda-42a1-8b73-eda562e7cf46" width="100" >
+<img src="https://github.com/FilipaLino/BlendMimic3D/assets/102179022/4fc14114-6cda-42a1-8b73-eda562e7cf46" width="50%" height="50%">
 
 ## Usage and Integration
 BlendMimic3D is designed for versatility and can be easily integrated with existing HPE models. The dataset is structured to facilitate direct comparisons with Human3.6M, enabling researchers to evaluate and benchmark their models effectively.
