@@ -13,14 +13,14 @@ Existing HPE datasets have significantly contributed to the advancement of pose 
 - **Diverse Occlusion Scenarios:** Specifically addresses self-occlusions, object-based occlusions, and out-of-frame occlusions.
 - **Multi-Perspective Capture:** Utilizes four cameras to capture diverse human movements and interactions from multiple angles.
 - **Pixel-Perfect Annotations:** Offers detailed annotations for 2D keypoints, 3D keypoints, and occlusion data.
-![Blenderspecs2](https://github.com/FilipaLino/BlendMimic3D/assets/102179022/41064897-98a3-40a5-8642-71fbc1f03dd0)
+<img src="https://github.com/FilipaLino/BlendMimic3D/assets/102179022/41064897-98a3-40a5-8642-71fbc1f03dd0" width="70%" height="70%">
 
 ## Dataset Components
 - **Videos:** A collection of videos capturing a range of actions from four different camera perspectives.
 - **Camera Parameters:** Includes intrinsic and extrinsic parameters for camera calibration.
 - **3D and 2D Keypoint Positions:** Provides both 3D and 2D positions of keypoints for comprehensive pose estimation.
 - **Occlusion Data:** Contains a binary array depicting which keypoints are occluded in each frame.
-<img src="https://github.com/FilipaLino/BlendMimic3D/assets/102179022/4fc14114-6cda-42a1-8b73-eda562e7cf46" width="50%" height="50%">
+![Dataset-Data (1)](https://github.com/FilipaLino/BlendMimic3D/assets/102179022/4fc14114-6cda-42a1-8b73-eda562e7cf46)
 
 ## Usage and Integration
 BlendMimic3D is designed for versatility and can be easily integrated with existing HPE models. The dataset is structured to facilitate direct comparisons with Human3.6M, enabling researchers to evaluate and benchmark their models effectively.
