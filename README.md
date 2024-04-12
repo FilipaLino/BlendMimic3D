@@ -45,5 +45,6 @@ If you use our dataset in your research, please cite our paper:
 ```
 
 ## Acknowledgements
-This project has been supported by the Smart Retail project at the Institute for Systems and Robotics, funded by the Portuguese Recovery and Resilience Plan.
+This work was supported by LARSyS funding (DOI: 10.54499/LA/P/0083/2020, 10.54499/UIDP/50009/2020, and 10.54499/UIDB/50009/2020) and 10.54499/2022.07849.CEECIND/CP1713/CT0001, through Fundação para a Ciência e a Tecnologia, and by the SmartRetail project [PRR - C645440011-00000062], through IAPMEI - Agência para a Competitividade e Inovação
+
 
