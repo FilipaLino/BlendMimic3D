@@ -14,7 +14,7 @@ Existing HPE datasets have significantly contributed to the advancement of pose 
 - **Multi-Perspective Capture:** Utilizes four cameras to capture diverse human movements and interactions from multiple angles.
 - **Pixel-Perfect Annotations:** Offers detailed annotations for 2D keypoints, 3D keypoints, and occlusion data.
 <p align="center">
-  <img src="https://github.com/FilipaLino/BlendMimic3D/assets/102179022/41064897-98a3-40a5-8642-71fbc1f03dd0" width="70%" height="70%">
+  <img src="https://github.com/FilipaLino/BlendMimic3D/assets/102179022/41064897-98a3-40a5-8642-71fbc1f03dd0" width="50%" height="50%">
 </p>
 
 ## Dataset Components
